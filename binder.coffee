@@ -24,7 +24,7 @@ module.exports = (app, path, slug)->
         for color, replacement of replacements            
             if replacement?
                 # It's an heaxdecimal color
-                if /(^[0-9A-F]{6}$)|(^#[0-9A-F]{3}$)/i.test replacement
+                if /(^[0-9A-F]{6}$)|(^[0-9A-F]{3}$)/i.test replacement
                     # Add a prefix
                     replacement = "#" + replacement
                 # Replace the color
