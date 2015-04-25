@@ -6,5 +6,17 @@
     "fledit": {
         "src": "svg/fledit.svg",
         "colors": ["#FFFFFF"]
-    }
+    },
+    "loading-bars": {
+    	"src": "svg/loading-bars.svg",
+    	"colors": ["#FFFFFF"]
+    },
+	"loading-puff": {
+		"src": "svg/loading-puff.svg",
+		"colors": ["#FFFFFF"]
+	},
+	"loading-three-dots": {
+		"src": "svg/loading-three-dots.svg",
+		"colors": ["#FFFFFF"]
+	}
 }
