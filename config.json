@@ -1,6 +1,10 @@
 {
     "jpp": {
         "src": "svg/jpp.svg",
-        "colors": ["#B3121D", "#E1D5D2"]    
+        "colors": ["#B3121D", "#E1D5D2"]
+    },
+    "fledit": {
+        "src": "svg/fledit.svg",
+        "colors": ["#FFFFFF"]
     }
 }
