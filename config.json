@@ -21,6 +21,6 @@
     },
     "rentswatch": {
         "src": "svg/rentswatch.svg",
-        "colors": ["#d35f5f", "#3e3a5a"]
+        "colors": ["#d35f5f", "#3e3a5a", "#ffffff"]
     }
 }
