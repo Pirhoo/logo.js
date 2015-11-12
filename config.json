@@ -18,5 +18,9 @@
     "loading-three-dots": {
         "src": "svg/loading-three-dots.svg",
         "colors": ["#FFFFFF"]
+    },
+    "rentswatch": {
+        "src": "svg/rentswatch.svg",
+        "colors": ["#D35F5F", "#3E3A5A"]
     }
 }
