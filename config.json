@@ -22,5 +22,9 @@
     "rentswatch": {
         "src": "svg/rentswatch.svg",
         "colors": ["#d35f5f", "#3e3a5a", "#ffffff"]
+    },
+    "football-tax": {
+        "src": "svg/football-tax.svg",
+        "colors": ["#00202f"]
     }
 }
